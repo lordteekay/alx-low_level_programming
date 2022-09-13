@@ -1,5 +1,5 @@
 #include <stdio.h>
-/*
+/**
  * main -Entry point
  *
  * Description: 'The program prints with put'

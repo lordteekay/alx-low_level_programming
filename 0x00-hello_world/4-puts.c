@@ -2,7 +2,9 @@
 /*
  * main -Entry point
  *
- * Reurn always 0
+ * Description: 'The program prints with put'
+ *
+ * Return: Always 0 (Success)
  */
 int main(void)
 

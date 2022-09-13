@@ -2,3 +2,4 @@
 1-compiler used to compile a file but does not link
 2-assembler assembly code of a C code and save it in an output file
 3-namecompiles a C file and creates an executable named cisfun
+4-puts prints without using the printf command

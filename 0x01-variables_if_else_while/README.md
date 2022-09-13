@@ -9,3 +9,4 @@
 [master 9ed3eae] 7-print_tebahpla.c prints the lowercase alphabet in reverse, followed by a new line
  2 files changed, 17 insertions(+)
  create mode 100755 0x01-variables_if_else_while/7-print_tebahpla.c
+8-print_base16.c prints all the numbers of base 16 in lowercase, followed by a new line

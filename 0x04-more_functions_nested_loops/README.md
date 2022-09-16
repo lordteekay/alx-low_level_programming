@@ -8,3 +8,4 @@
 7-print_diagonal.c draws a diagonal line on the terminal
 8-print_square.c prints a square, followed by a new line
 9-fizz_buzz.c  prints the numbers from 1 to 100, followed by a new line. But for multiples of three print Fizz instead of the number and for the multiples of five print Buzz
+10-print_triangle.c prints a triangle, followed by a new line
